@@ -8,6 +8,7 @@ module.exports = {
     "../lib/*_web.ex",
     "../lib/*_web/**/*.*ex"
   ],
+  
   theme: {
     extend: {
       colors: {
